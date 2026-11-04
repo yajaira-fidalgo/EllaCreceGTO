@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "689475462334",
+    "project_id": "ella-crece-gto-4468c",
+    "storage_bucket": "ella-crece-gto-4468c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689475462334:android:aa8f9ce33b25c0e844aaef",
+        "android_client_info": {
+          "package_name": "com.yajaira.crece"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmzRFdGQd3PD6ZYF4-b-mjx2s2NzqnLL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
